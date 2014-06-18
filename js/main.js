@@ -20,7 +20,7 @@ var app = {
 		} else {
 			alert(title ? (title + ": " + message) : message);
 		}
-	}	
+	},	
 
 	//test message
 	initialize: function() {
